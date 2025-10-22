@@ -1,0 +1,40 @@
+PART1(6 questions): Picture reading and describe
+
+PART2(25 questions): Hearing question or statement, and no printed in paper
+
+PART3(): 
+
+PART4(): 
+
+
+poster: 海报
+coat: 大衣
+gather: 聚集
+counter: 柜台
+work on: 修理改进
+put on: 穿上
+customer: 顾客
+deliver: 传递
+lift: 举起
+hold: 拖住
+patient: 病人，有耐心的
+
+direction: 指令，方向
+statement: 陈述，说明
+digital camera: 数码相机
+fluent：流畅的
+fluency: 流畅，流利
+influence: 影响
+award: 奖项
+reward: 回报
+ceremony: 仪式，礼节
+laptop: 手提电脑，笔记本
+preserve: 保护
+conserve: 保护
+reserve: 预订
+deserve: 值得
+unique：独一无二的
+condition: 环境，调节
+promote: 促进，晋升
+
+
